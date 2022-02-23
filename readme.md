@@ -3,4 +3,4 @@
 ## Group: 1KN-20B
 
 ## Student: Oksana Lebid
-**This labwork is done**
+**This labwork __is done__**
